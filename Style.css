@@ -1,0 +1,30 @@
+h1
+ {
+    background-color:rgb(64, 0, 255) ; 
+    color:yellow; 
+    text-align : center;
+}
+p
+ {
+   background-color:rgb(0, 174, 137) ;
+   padding: 2px;
+   margin-right: 2px;
+   color: white;  
+}
+h5
+{
+   background-color:rgba(207, 216, 112, 0.89) ;
+   padding: 2px;
+   margin-right: 2px;
+   color: white;   
+}
+h6
+{
+   background-color:rgb(0, 200, 255);    
+}
+
+img{
+   background-image:url();
+}   
+
+
